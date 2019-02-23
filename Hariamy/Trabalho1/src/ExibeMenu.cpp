@@ -18,63 +18,63 @@ void exibeMenu(){
 	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
 	cout << "   ║                                                  ║   ";
 	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+	
 	cout << "   ║";
 	cout << COR_VERMELHO;
 	cout <<       "      TECLA              FUNÇÃO                   ";
 	cout << COR_CIANO <<                                         "║   ";
 	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_AZUL;
-	cout <<       "        1            Carrega imagem1.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_PRETO;
-	cout <<       "        2            Carrega imagem2.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_AZUL;
-	cout <<       "        3            Carrega imagem3.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_PRETO;
-	cout <<       "        4            Carrega imagem4.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_AZUL;
-	cout <<       "        5            Carrega imagem5.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_PRETO;
-	cout <<       "        6            Carrega imagem6.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_AZUL;
-	cout <<       "        7            Carrega imagem7.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
-	cout << "   ║";
-	cout << COR_PRETO;
-	cout <<       "        8            Carrega imagem8.jpg          ";
-	cout << COR_CIANO <<                                         "║   ";
-	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+
+
 	cout << "   ║                                                  ║   ";
 	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+	
+
 	cout << "   ║";
 	cout << COR_PRETO;
+	cout <<       "      ESPAÇO         Troca Imagem                ";
+	cout << COR_CIANO <<                                         "║   ";
+	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+
+
+	cout << "   ║";
+	cout << COR_AZUL;
+	cout <<       "        A            Imagem Anterior              ";
+	cout << COR_CIANO <<                                         "║   ";
+	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+	
+	
+	cout << "   ║";
+	cout << COR_PRETO;
+	cout <<       "        B            Próxima Imagem               ";
+	cout << COR_CIANO <<                                         "║   ";
+	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+
+
+	cout << "   ║                                                  ║   ";
+	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+	
+	cout << "   ║";
+	cout << COR_AZUL;
 	cout <<       "        +            Aumenta precisão             ";
 	cout << COR_CIANO <<                                         "║   ";
 	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+	
 	cout << "   ║";
-	cout << COR_AZUL;
+	cout << COR_PRETO;
 	cout <<       "        -            Diminui precisão             ";
 	cout << COR_CIANO <<                                         "║   ";
 	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+	
+	cout << "   ║                                                  ║   ";
+	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+
+	cout << "   ║";
+	cout << COR_AZUL;
+	cout <<       "        C            Colorido/Preto e branco      ";
+	cout << COR_CIANO <<                                         "║   ";
+	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
+
 	cout << "   ║                                                  ║   ";
 	cout << FUNDO_NORMAL << "\n  " << FUNDO_BRANCO;
 	cout << "   ╚══════════════════════════════════════════════════╝   ";
